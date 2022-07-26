@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+body{
+    background-color: #428c2b; 
+    margin: 8px;
+    display: block
+}
+
+p{
+    color:aliceblue;
+  
+ 
+}
+h2{
+    color:aliceblue
+}
+article{
+    color:aliceblue
+}
+h1{
+    color:aliceblue
+}
+#mainHeading{
+
+    color:red
+}
+.funParagraph{
+    color:#3cfc01
+}
